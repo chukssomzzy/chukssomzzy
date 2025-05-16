@@ -43,8 +43,7 @@
 
 ### 📬 Connect with Me
 <p align="center">
-  <a href="mailto:chukssomzzy@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
+  <a href="mailto:cs.somtochukwu@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
   <a href="https://twitter.com/chuks_somzzy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/></a>
   <a href="https://stackoverflow.com/users/chukssomzzy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40"/></a>
-  <a href="https://fb.com/chukssomzzy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/></a>
 </p>
