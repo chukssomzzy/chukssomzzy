@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 - 🔨 Building scalable APIs with **Python**, **FastAPI**, **Node.js**, and **TypeScript**.
-- 🧠 Exploring **AI integrations** like Chatbot development, AI automations and GraphQL APIs.
+- 🧠 Exploring **AI integrations** like Chatbot development, AI Automation
 - 🌱 Currently leveling up in **system design** and **cloud architecture**.
 - 💡 Fun fact: I believe **geniuses are crafted through curiosity and grit**!
 
